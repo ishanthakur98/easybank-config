@@ -5,3 +5,4 @@ spring:
   config:
     activate:
       on-profile: prod
+email: "{cipher}9bc9bd0257314d279a4a2c7bee98bc854b390888fd14c8dfd92ef52a3725af6b"
