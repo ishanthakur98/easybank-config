@@ -1,0 +1,7 @@
+build:
+  version: "1.0"
+
+spring:
+  config:
+    activate:
+      on-profile: prod

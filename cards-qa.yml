@@ -1,0 +1,7 @@
+build:
+  version: "2.0"
+
+spring:
+  config:
+    activate:
+      on-profile: qa
